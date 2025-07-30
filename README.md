@@ -44,3 +44,7 @@ This writeup analyzes a real-world incident involving internal folder access, wh
 ## Reflection
 
 This activity solidified the importance of both technical and procedural safeguards in preventing internal data leaks. By applying NIST’s control enhancements, I demonstrated the capacity to assess incident risk, apply structured controls, and incorporate preventative planning — core competencies in risk mitigation and policy alignment within cybersecurity frameworks.
+
+## Screenshot of Completed Spreadsheet
+![Home Asset Inventory](images/home-asset-inventory.png)
+> This image captures the full response submitted as part of the Google Cybersecurity Certificate incident report activity. 
