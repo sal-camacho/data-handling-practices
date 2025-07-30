@@ -37,7 +37,8 @@ This writeup analyzes a real-world incident involving internal folder access, wh
 |---------------------|-------------------------------------------------------------------------------------------------|
 | **Incident Summary** | A sales manager shared a folder with internal-only documents during a team meeting. Although the team was warned not to redistribute the promotional materials, access remained live. During a video call with an external business partner, a team member mistakenly shared the folder link. The partner later posted the link publicly, believing the content was approved for external use. |
 | **Control Identified** | Violated control: **AC-6 — Least Privilege**. This highlights the need to limit access strictly to operational necessity, and revoke permissions promptly after use. |
-| **Issues Observed** | Primary breakdowns included: (1) lack of access revocation
+| **Issues Observed** | Primary breakdowns included: (1) lack of access revocation following the internal meeting, and (2) the team member's failure to verify the link’s appropriateness before sharing externally. These gaps increased the risk of unintended data exposure. |
+| **Control Review** | AC-6 defines least privilege as the restriction of access rights to the minimum required for a user’s role. Enhancements include auto-revocation mechanisms and regular auditing to reinforce oversight and accountability. |
 
 ---
 
@@ -45,6 +46,12 @@ This writeup analyzes a real-world incident involving internal folder access, wh
 
 This activity solidified the importance of both technical and procedural safeguards in preventing internal data leaks. By applying NIST’s control enhancements, I demonstrated the capacity to assess incident risk, apply structured controls, and incorporate preventative planning — core competencies in risk mitigation and policy alignment within cybersecurity frameworks.
 
-## Screenshot of Completed Spreadsheet
-![Data Handaling](images/image/data-handaling.png)
+## Screenshot of Completed Worhsheet, Security Plan Snapchat & NIST SP 800-53: AC-6
+![Data Handling](images/image/data-handling.png)
 > This image captures the full response submitted as part of the Google Cybersecurity Certificate incident report activity.
+
+
+<img width="536" height="690" alt="27" src="https://github.com/user-attachments/assets/679f5b47-e691-43ce-a7e3-054a50c1a6ec" />
+<img width="539" height="689" alt="28" src="https://github.com/user-attachments/assets/d585ffe0-3726-4151-9d21-b82da71df007" />
+<img width="515" height="700" alt="29" src="https://github.com/user-attachments/assets/cf481073-2e26-4a1e-aa8e-f3cd8eeac32d" />
+<img width="514" height="686" alt="30" src="https://github.com/user-attachments/assets/c2c267f2-7d83-4e5a-8e9e-aeaf6a80c963" />
