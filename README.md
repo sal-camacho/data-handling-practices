@@ -29,7 +29,7 @@ First, you'll need to evaluate details about the incident. Then, you'll review t
   - Regular audits of user privileges  
 - Emphasize steps and improved planning around confidential material sharing
 
-## Data Leak Worksheet
+## Data Leak Worksheet Table
 
 This writeup analyzes a real-world incident involving internal folder access, where the failure to revoke permissions led to a confidential data leak. It applies NIST SP 800-53 AC-6 and CSF PR.DS-5 to propose remediation strategies rooted in least privilege principles.
 
@@ -40,11 +40,11 @@ This writeup analyzes a real-world incident involving internal folder access, wh
 | **Issues Observed** | Primary breakdowns included: (1) lack of access revocation following the internal meeting, and (2) the team member's failure to verify the link’s appropriateness before sharing externally. These gaps increased the risk of unintended data exposure. |
 | **Control Review** | AC-6 defines least privilege as the restriction of access rights to the minimum required for a user’s role. Enhancements include auto-revocation mechanisms and regular auditing to reinforce oversight and accountability. |
 
----
-
 ## Reflection
 
 This activity solidified the importance of both technical and procedural safeguards in preventing internal data leaks. By applying NIST’s control enhancements, I demonstrated the capacity to assess incident risk, apply structured controls, and incorporate preventative planning — core competencies in risk mitigation and policy alignment within cybersecurity frameworks.
+
+---
 
 ## Screenshot of Completed Worhsheet, Security Plan Snapchat & NIST SP 800-53: AC-6
 ![Data Handling](images/image/data-handling.png)
