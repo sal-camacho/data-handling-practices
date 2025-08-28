@@ -46,7 +46,7 @@ This activity solidified the importance of both technical and procedural safegua
 
 ---
 
-## Screenshot of Completed Worhsheet, Security Plan Snapshot & NIST SP 800-53: AC-6
+## Screenshot of Completed Worksheet, Security Plan Snapshot & NIST SP 800-53: AC-6
 ![Data Handling](images/image/data-handling.png)
 > This image captures the full response submitted as part of the Google Cybersecurity Certificate incident report activity.
 
